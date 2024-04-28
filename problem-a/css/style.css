@@ -9,3 +9,7 @@ p {
 img {
     max-height: 400px;
 }
+
+.important {
+    color: red; /* Adjust the color as needed to match design specifications */
+}
